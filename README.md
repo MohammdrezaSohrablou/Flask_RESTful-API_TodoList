@@ -3,9 +3,6 @@ A simple Flask project for managing tasks using SQL Server and JWT.
 
 Features
   Uses SQL Server as the database (CRUD)
-    todo_db
-      dbo.tasks
-      dbo.users
   Authentication/Authorization using JWT
   Advanced Exception/Error Handling
   RESTful API design with Flask
